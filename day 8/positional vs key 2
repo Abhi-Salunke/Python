@@ -1,0 +1,4 @@
+def greet_with (name1, location):
+    print(f"hello {name1}")
+    print(f"it is live in dubai city name  {location}")
+greet_with (name1="Abhi salunke",location="patharwala ")
