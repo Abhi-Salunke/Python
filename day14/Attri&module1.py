@@ -1,0 +1,12 @@
+# import another_module 
+# print (another_module .another_variable )
+
+from turtle import Turtle, Screen
+tommy =Turtle()
+print(tommy)
+tommy.shape("turtle")
+tommy .color("coral")
+tommy.forward(182)
+my_screen =Screen()
+print(my_screen.canvheight)
+my_screen.exitonclick()
